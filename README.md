@@ -1,0 +1,2 @@
+# nginxcontroller
+InstallationScript
