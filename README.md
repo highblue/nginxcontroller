@@ -30,6 +30,7 @@ sudo vim /etc/hosts
 cd controller-install
 ./install.sh -n
 ```
+
 input the parameters example:
 smtp: localhost
 smtp port: 25
