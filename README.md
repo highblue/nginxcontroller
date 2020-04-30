@@ -32,8 +32,13 @@ cd controller-install
 ```
 
 > input the parameters example:
-> smtp: localhost
-> smtp port: 25
-> FQDN: ctrl.demo.io
-> username: admin@demo.io
-> passwd: xxxxxx
+  
+  smtp: localhost
+  
+  smtp port: 25
+  
+  FQDN: ctrl.demo.io
+  
+  username: admin@demo.io
+  
+  passwd: xxxxxx
